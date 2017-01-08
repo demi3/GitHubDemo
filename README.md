@@ -1,2 +1,2 @@
 # GitHubDemo
-Samle to work with GitHub
+ - Samle to work with GitHub
